@@ -1,4 +1,3 @@
 [submodule "libsha1"]
 	path = libsha1
 	url = https://github.com/dottedmag/libsha1.git
-
